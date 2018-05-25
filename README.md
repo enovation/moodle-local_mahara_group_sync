@@ -1,0 +1,2 @@
+# moodle-local_mahara_group_sync
+local_mahara_group_sync from Moodle_3.3/lib/local_mahara_group_sync
